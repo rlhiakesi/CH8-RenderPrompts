@@ -1,0 +1,50 @@
+Render CH8-P028 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH8-028-art.png, IAKESI-CH8-028-lettering.png, and IAKESI-CH8-028-text.txt.
+ARTWORK FILE — IAKESI-CH8-028-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH8-028-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH8-028-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 4 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+- Lettering Case: ALL_CAPS
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Aokawa-Temple-Interior-production-sheet.png, Assets/Aokawa-Temple-Exterior-production-sheet.png, Assets/Aokawa-Village-production-sheet.png, Assets/Character sheets Year 1/Aiko Character Sheet.png, Assets/Character sheets Year 1/Hana Character Sheet.png, Assets/Character sheets Year 1/Ren Character Sheet.png, Assets/Character sheets Year 1/Yui Character sheet.png, Assets/Abbess character sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Play the beat exactly as scripted. Story beat and emotional clarity take precedence over decorative composition.
+- Continuity: Carry forward costumes, age, injuries, props, weather, and character positions from the immediately preceding beat. Do not introduce unscripted objects or characters.
+- Setting: Use the location established by the page and preceding panel; preserve spatial and temporal continuity.
+- Camera: Medium narrative framing unless the panel geometry calls for a wider establishing or tighter reaction shot.
+- Scene: Panel 1
+- Blocking: Use only characters required by the scripted beat. Preserve established positions, eyelines, travel direction, and entrances/exits.
+- Action: Preserve the scripted panel action above without adding a new story beat.
+
+Panel 2:
+- Panel direction (not printed text): Play the beat exactly as scripted. Story beat and emotional clarity take precedence over decorative composition.
+- Continuity: Carry forward costumes, age, injuries, props, weather, and character positions from the immediately preceding beat. Do not introduce unscripted objects or characters.
+- Setting: Use the location established by the page and preceding panel; preserve spatial and temporal continuity.
+- Camera: Medium narrative framing unless the panel geometry calls for a wider establishing or tighter reaction shot.
+- Scene: Panel 2
+- Blocking: Use only characters required by the scripted beat. Preserve established positions, eyelines, travel direction, and entrances/exits.
+- Action: Preserve the scripted panel action above without adding a new story beat.
+
+Panel 3:
+- Panel direction (not printed text): Play the beat exactly as scripted. Story beat and emotional clarity take precedence over decorative composition.
+- Continuity: Carry forward costumes, age, injuries, props, weather, and character positions from the immediately preceding beat. Do not introduce unscripted objects or characters.
+- Setting: Use the location established by the page and preceding panel; preserve spatial and temporal continuity.
+- Camera: Medium narrative framing unless the panel geometry calls for a wider establishing or tighter reaction shot.
+- Scene: Panel 3
+- Blocking: Use only characters required by the scripted beat. Preserve established positions, eyelines, travel direction, and entrances/exits.
+- Action: Preserve the scripted panel action above without adding a new story beat.
+
+Panel 4:
+- Panel direction (not printed text): Play the beat exactly as scripted. Story beat and emotional clarity take precedence over decorative composition.
+- Continuity: Carry forward costumes, age, injuries, props, weather, and character positions from the immediately preceding beat. Do not introduce unscripted objects or characters.
+- Setting: Use the location established by the page and preceding panel; preserve spatial and temporal continuity.
+- Camera: Medium narrative framing unless the panel geometry calls for a wider establishing or tighter reaction shot.
+- Scene: Panel 4
+- Blocking: Use only characters required by the scripted beat. Preserve established positions, eyelines, travel direction, and entrances/exits.
+- Action: Preserve the scripted panel action above without adding a new story beat.
+
+Story lettering rule: use exactly the 0 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH8-028-art.png and IAKESI-CH8-028-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
